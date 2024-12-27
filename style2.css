@@ -321,20 +321,23 @@ ul li:hover ul.drop{
         margin-top: 20px;
     }
 
+    .f{
+        width: 100%;
+    }
     .fo1 {
-        margin-left: 40px;
+        margin-left: 10%;
         margin-top: 8px;
         text-align: left;
         font-size: 15px;
     }
     .fo2 {
-        margin-left: 290px;
+        margin-left: 450px;
         margin-top: -160px;
         text-align: left;
         font-size: 15px;
     }
     .fo3 {
-        margin-left: 70%;
+        margin-left: 80%;
         margin-top: -160px;
         text-align: left;
         font-size: 15px;

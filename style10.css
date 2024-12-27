@@ -338,25 +338,25 @@ ul li:hover ul.drop1{
         padding: 20px;
     }
     .f{
-        margin-top: 0px;
+        width: 100%;
     }
     .fo1 {
-        margin-left: 20%;
+        margin-left: 10%;
         margin-top: 8px;
         text-align: left;
-        font-size: 10px;
+        font-size: 15px;
     }
     .fo2 {
-        margin-left: 55%;
-        margin-top: -125.5px;
+        margin-left: 450px;
+        margin-top: -160px;
         text-align: left;
-        font-size: 10px;
+        font-size: 15px;
     }
     .fo3 {
-        margin-left: 20%;
-        margin-top: 45px;
+        margin-left: 80%;
+        margin-top: -160px;
         text-align: left;
-        font-size: 10px;
+        font-size: 15px;
     }
 }
 /* Tablets: Medium screens */
